@@ -12,3 +12,24 @@
     margin-right: 30px;
     margin-left: 20px;
 }
+#supportHero{
+    background-color: #387ed1;
+    color: white;
+}
+#supportHero a{
+    color: white;
+    margin-right: 50px;
+    line-height: 40px;
+}
+#supportWrapper{ 
+    display: flex;
+    justify-content: space-around;
+
+}
+#supportHero input{
+    padding: 20px 50px ;
+    width: 100%;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
