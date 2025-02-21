@@ -149,8 +149,8 @@ body {
   
   .title {
     font-size: 1.3rem;
-    font-weight: 300;
-    color: rgb(71, 71, 71);
+    font-weight: 800;
+    color: black;
     margin-bottom: 2%;
   }
   
@@ -204,11 +204,11 @@ body {
   }
   
   .order-table td.profit {
-    color: rgb(72, 194, 55);
+    color: green;
   }
   
   .order-table td.loss {
-    color: rgb(250, 118, 78);
+    color: red;
   }
   
   .row {
@@ -241,7 +241,7 @@ body {
   }
   
   .row .col:last-child h5 {
-    color: rgb(72, 194, 55);
+    color: green;
   }
   
   /* sudo selector */
@@ -432,7 +432,7 @@ body {
   }
   
   .order-table td.profit {
-    color: rgb(72, 194, 55);
+    color: green;
   }
   
   .order-table td.loss {
@@ -469,7 +469,7 @@ body {
   }
   
   .row .col:last-child h5 {
-    color: rgb(72, 194, 55);
+    color: green;
   }
   
   /* sudo selector */
@@ -536,11 +536,11 @@ body {
   
   .data .first small {
     font-size: 0.8rem;
-    color: rgb(72, 194, 55);
+    color: green;
   }
   
   .data .first .profit {
-    color: rgb(72, 194, 55);
+    color: green;
   }
   
   .data hr {
@@ -786,15 +786,15 @@ body {
   }
   
   .watchlist-number ul li:nth-child(1) {
-    color: rgb(223, 73, 73);
+    color: red;
   }
   
   .down {
-    color: rgb(223, 73, 73);
+    color: red;
   }
   
   .up {
-    color: rgb(103, 201, 136);
+    color: green;
   }
   
   .settings {
