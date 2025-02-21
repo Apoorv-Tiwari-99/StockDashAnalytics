@@ -11,7 +11,7 @@ A **StockDashAnalytics** built using the **MERN Stack**, featuring a **dashboard
 
 ## Tech Stack
 
-- **Frontend:** React.js (with Tailwind CSS / Material-UI)  
+- **Frontend:** React.js (with Material-UI)  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Authentication:** JSON Web Token (JWT)  
@@ -33,7 +33,7 @@ Feel free to submit issues or pull requests. Contributions are welcome!
 - Improve **chart customization options**.
 
 ## Note :
-Created by me in the initial  learning phase of development  to improve frontend skills and to understand how to use Chart.js for data analytics .
+Created by me in the initial  learning phase of development  to improve frontend skills and to understand how to use chart.js for data analytics .
 
 
 
